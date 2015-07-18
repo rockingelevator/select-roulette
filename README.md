@@ -15,7 +15,7 @@ JS (jQuery required)
 
 ```
 var hours = [];
-for(i=1; i < 25; i++){
+for(i=1; i < 24; i++){
 	hours.push(i);
 }
 ```
