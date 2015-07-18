@@ -2,7 +2,7 @@
 JQuery plugin makes 'ios-like' selects
 
 ## Demo
-http://jsfiddle.net/rockingelevator/o09pf93c/3/
+http://jsfiddle.net/rockingelevator/o09pf93c/5/
 
 ## Usage
 
